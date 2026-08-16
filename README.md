@@ -1,2 +1,11 @@
-# Python-Learning-Journey-
-My hands-on Python practice repository — built while following Bro Code's full Python course. Covers core concepts, self-solved problems, and mini-projects including a calculator, text editor, and snake game. Actively updated as I progress.
+👨‍💻 About This Repository
+
+📌 What This Is
+This is my personal Python learning repository. Every file here is written by me — not copied. I started from scratch and I'm building up steadily, from basic syntax all the way to projects.
+
+
+📁 Structure
+python-fundamentals/
+│
+├── basics/          → Core syntax and concept files
+└── problems/        → Problems I solved myself using those concepts
