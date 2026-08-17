@@ -6,7 +6,7 @@ This is my personal Python learning repository. Every file here is written by me
 
 📁 Structure
 python-fundamentals/
-
-basics/          → Core syntax and concept files
-
-problems/        → Problems I solved myself using those concepts
+|
+|—basics/          → Core syntax and concept files
+|
+|—problems/        → Problems I solved myself using those concepts
