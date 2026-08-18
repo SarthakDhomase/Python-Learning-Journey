@@ -1,5 +1,4 @@
 # Problem: Create a shopping cart program to add food items and calculate the total price
-
 # Approach: Using lists, while loop, input(), typecasting, append(), for loops, and arithmetic operations.
 
 foods = []
