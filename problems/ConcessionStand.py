@@ -29,7 +29,7 @@ while True:
 
 print(cart)
 
-# get all the values in the cart and print totle 
+# get all the values in the cart and print total
 for food in cart:
     total = total + menu.get(food)
     print(food, end=" ")
