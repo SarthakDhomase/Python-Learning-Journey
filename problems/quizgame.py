@@ -1,5 +1,11 @@
 # Problem: Create a quiz game
-# Approach: 
+# Approach: # Approach:
+# 1. Store questions, options, and correct answers in separate tuples.
+# 2. Loop through each question and display its options.
+# 3. Take the user's answer and store it in the guesses list.
+# 4. Compare the user's answer with the correct answer.
+# 5. Increase the score for every correct answer.
+# 6. Display the correct answers, user's guesses, and final score.
 
 questions = ("What is the capital of India?",
              "How many days are there in a week?",
