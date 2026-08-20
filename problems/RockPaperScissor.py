@@ -31,4 +31,4 @@ while running:
         if not play_again == "y":
             running = False
         
-print("Thanks for")
+print("Thanks for playings")
