@@ -7,4 +7,4 @@ def hello(greeting, title, first, last):
     print(f"{greeting} {title}{first} {last}")
 
 
-print(hello("Welcome", "Mr.", "john", "cena"))
+print(hello("Welcome",last = "cena", title = "Mr.", first = "john", ))
